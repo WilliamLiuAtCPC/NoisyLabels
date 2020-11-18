@@ -3,6 +3,7 @@
  This project is for noisy label learning on Cifar10.
 
  5 python scripts used in this project along with their function are listed below:
+ 
 	 1) 'myCNN.py' contains the Network definition
 	 2) 'train.py' for network training
 	 3) 'testCNN.py' for network testing
